@@ -1,4 +1,8 @@
 {
   "/page": "app/page.js",
-  "/chat/page": "app/chat/page.js"
+  "/fitness-form/page": "app/fitness-form/page.js",
+  "/mental-health-form/page": "app/mental-health-form/page.js",
+  "/chat/page": "app/chat/page.js",
+  "/wellness-form/page": "app/wellness-form/page.js",
+  "/api/chat/route": "app/api/chat/route.js"
 }

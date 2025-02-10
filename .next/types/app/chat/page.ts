@@ -1,4 +1,4 @@
-// File: E:\Hackathon\main\app\chat\page.tsx
+// File: E:\Hackathon\Avinya3.0\app\chat\page.tsx
 import * as entry from '../../../../app/chat/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

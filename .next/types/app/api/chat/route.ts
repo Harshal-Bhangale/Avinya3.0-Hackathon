@@ -1,4 +1,4 @@
-// File: E:\Hackathon\main\app\api\chat\route.ts
+// File: E:\Hackathon\Avinya3.0\app\api\chat\route.ts
 import * as entry from '../../../../../app/api/chat/route.js'
 import type { NextRequest } from 'next/server.js'
 
