@@ -152,7 +152,7 @@ This project offers a **powerful, interactive, and user-friendly AI companion** 
 
 ---
 
-## 👨‍💻 Developed By **Team Avinya** 🔥
+## 👨‍💻 Developed By **Team Synaptic-Surge** 🔥
 
 💡 **Building AI for a Healthier Future!**
 
