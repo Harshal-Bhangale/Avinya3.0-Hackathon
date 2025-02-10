@@ -102,7 +102,7 @@ AVINYA3.0-HEALTH/
 
 ### **🔹 Frontend Setup (React + Next.js)**
 ```sh
-cd AVINYA3.0-HEALTH
+cd AVINYA3.0-HACKATHON
 npm install
 npm run dev
 ```
@@ -110,7 +110,7 @@ npm run dev
 
 ### **🔹 AI Chatbot Backend Setup**
 ```sh
-cd AVINYA3.0-HEALTH/backend
+cd AVINYA3.0-HACKATHON/backend
 pip install -r requirements.txt
 python together.py
 ```
